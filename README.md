@@ -1,5 +1,1 @@
-# Engineering_Research_Projects_NER
-
-recommended naming convention:
-  -> year_month_journalname (folder)
-      -> ...files...
+Welcome to our public Github repository for our NER research papers and related works, including code and datasets!
