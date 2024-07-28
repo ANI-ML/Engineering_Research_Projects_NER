@@ -1,3 +1,7 @@
+
+![ANI ML Research Logo](https://github.com/user-attachments/assets/3296b176-8c53-4ee8-bc2a-e5ddf245df14)
+
+
 Welcome to the public Github repository for our NER research paper and related works!
 
 The first publication was submitted to Veterinary & Comparative Oncology in July 2024 entitled:
